@@ -55,7 +55,7 @@ const farhan = {
 - 🔭 Working on **Enterprise Real-Time Systems** using NestJS, Socket.IO, BullMQ, Redis, and Next.js.
 - 🌱 Exploring **AI/ML Integration** in web/mobile applications and agentic workflows.
 - 💬 Ask me about **Full-Stack Web Dev**, **Flutter App Dev**, or **Backend Architecture**.
-- 📫 How to reach me: **[farhanbutt6970@gmail.com](mailto:farhanbutt6970@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/farhan-butt-b95ab7337/)**.
+- 📫 How to reach me: **[farhanbutt2402@gmail.com](mailto:farhanbutt2402@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/farhan-butt-b95ab7337/)**.
 
 ---
 
