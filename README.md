@@ -33,7 +33,7 @@
 
 ### 💫 About Me
 
-- 🎓 **Education**: Pursuing **BS Computer Science** at the **University of Gujrat** *(CGPA: 3.33 / 4.00)*.
+- 🎓 **Education**: Pursuing **BS Computer Science** at the **University of Gujrat**.
 - 💻 **Full-Stack Development**: Experienced in building scalable web apps with **React, Next.js, Node.js, Express, NestJS, and WebSockets**.
 - 📱 **Mobile App Development**: Crafting cross-platform iOS & Android mobile apps using **Flutter & Dart**.
 - 🤖 **Machine Learning & AI**: Passionate about ML algorithms (KNN, SVM, Neural Networks) and integrating AI agents into production.
