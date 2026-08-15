@@ -33,29 +33,13 @@
 
 ### 💫 About Me
 
-```javascript
-const farhan = {
-  code: ["JavaScript", "TypeScript", "Python", "Dart", "C++"],
-  technologies: {
-    frontend: ["React.js", "Next.js", "Tailwind CSS", "HTML5/CSS3"],
-    backend: ["Node.js", "Express.js", "NestJS", "REST APIs", "WebSockets"],
-    mobile: ["Flutter", "Android Studio"],
-    databases: ["MongoDB", "Firebase", "PostgreSQL", "Redis"],
-    machineLearning: ["Scikit-learn", "Pandas", "KNN", "SVM", "Neural Networks"],
-    devOpsAndTools: ["Git", "GitHub", "Docker", "BullMQ", "Vercel", "VS Code"]
-  },
-  education: "BS Computer Science @ University of Gujrat 🎓",
-  location: "Gujrat, Pakistan 🇵🇰",
-  currentFocus: "Architecting distributed real-time chat systems & AI-driven applications 🚀",
-  funFact: "I turn coffee into scalable code and pixel-perfect user interfaces! ☕"
-};
-```
-
-- 🎓 Currently pursuing **BS Computer Science** at the **University of Gujrat** (CGPA: 3.33 / 4.00).
-- 🔭 Working on **Enterprise Real-Time Systems** using NestJS, Socket.IO, BullMQ, Redis, and Next.js.
-- 🌱 Exploring **AI/ML Integration** in web/mobile applications and agentic workflows.
-- 💬 Ask me about **Full-Stack Web Dev**, **Flutter App Dev**, or **Backend Architecture**.
-- 📫 How to reach me: **[farhanbutt2402@gmail.com](mailto:farhanbutt2402@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/farhan-butt-b95ab7337/)**.
+- 🎓 **Education**: Pursuing **BS Computer Science** at the **University of Gujrat** *(CGPA: 3.33 / 4.00)*.
+- 💻 **Full-Stack Development**: Experienced in building scalable web apps with **React, Next.js, Node.js, Express, NestJS, and WebSockets**.
+- 📱 **Mobile App Development**: Crafting cross-platform iOS & Android mobile apps using **Flutter & Dart**.
+- 🤖 **Machine Learning & AI**: Passionate about ML algorithms (KNN, SVM, Neural Networks) and integrating AI agents into production.
+- 🔭 **Current Project**: Architecting an enterprise **Real-Time Group Chat Platform** with NestJS, Socket.IO, Redis, BullMQ, and Next.js.
+- 📍 **Location**: Gujrat, Pakistan 🇵🇰
+- 📫 **Contact**: [farhanbutt6970@gmail.com](mailto:farhanbutt6970@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/farhan-butt-b95ab7337/)
 
 ---
 
@@ -97,13 +81,13 @@ const farhan = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=FarhanButt12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="Farhan's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=FarhanButt12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="Farhan's GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanButt12&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="175" alt="Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FarhanButt12&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="175" alt="Most Used Languages" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanButt12&theme=tokyonight&hide_border=true" height="160" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=FarhanButt12&theme=tokyonight&hide_border=true" height="160" alt="Streak Stats" />
 
 </div>
 
