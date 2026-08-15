@@ -39,7 +39,7 @@
 - 🤖 **Machine Learning & AI**: Passionate about ML algorithms (KNN, SVM, Neural Networks) and integrating AI agents into production.
 - 🔭 **Current Project**: Architecting an enterprise **Real-Time Group Chat Platform** with NestJS, Socket.IO, Redis, BullMQ, and Next.js.
 - 📍 **Location**: Gujrat, Pakistan 🇵🇰
-- 📫 **Contact**: [farhanbutt6970@gmail.com](mailto:farhanbutt6970@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/farhan-butt-b95ab7337/)
+- 📫 **Contact**: [farhanbutt2402@gmail.com](mailto:farhanbutt2402@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/farhan-butt-b95ab7337/)
 
 ---
 
